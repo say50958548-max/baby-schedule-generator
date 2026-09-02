@@ -16,12 +16,14 @@
 
 ## 🛠️ Quick Start
 
-    # Repository Clone
-    git clone [https://github.com/say50958548-max/childcare-vaccine-notifier.git](https://github.com/say50958548-max/childcare-vaccine-notifier.git)
-    cd childcare-vaccine-notifier
+1. **Clone Repository**
+   `git clone [https://github.com/say50958548-max/childcare-vaccine-notifier.git](https://github.com/say50958548-max/childcare-vaccine-notifier.git)`
 
-    # Run Script
-    python main.py
+2. **Directory Move**
+   `cd childcare-vaccine-notifier`
+
+3. **Run Script**
+   `python main.py`
 
 ---
 
