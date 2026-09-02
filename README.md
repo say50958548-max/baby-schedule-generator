@@ -17,7 +17,7 @@
 ## 🛠️ Quick Start
 
 1. **Clone Repository**
-   `git clone [github.com/say50958548-max/childcare-vaccine-notifier](https://github.com/say50958548-max/childcare-vaccine-notifier)`
+   `git clone childcare-vaccine-notifier`
 
 2. **Directory Move**
    `cd childcare-vaccine-notifier`
