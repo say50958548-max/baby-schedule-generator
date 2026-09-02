@@ -16,10 +16,23 @@
 
 ## 🛠️ Quick Start
 
-```bash
-# Repository Clone
-git clone [https://github.com/say50958548-max/childcare-vaccine-notifier.git](https://github.com/say50958548-max/childcare-vaccine-notifier.git)
-cd childcare-vaccine-notifier
+    # Repository Clone
+    git clone [https://github.com/say50958548-max/childcare-vaccine-notifier.git](https://github.com/say50958548-max/childcare-vaccine-notifier.git)
+    cd childcare-vaccine-notifier
 
-# Run Script
-python main.py
+    # Run Script
+    python main.py
+
+---
+
+## 💻 Tech Stack
+
+- **Language:** Python 3.9+
+- **Library:** `datetime` (Standard Library)
+- **Format:** iCalendar (.ics)
+
+---
+
+## 📄 License
+
+[MIT License](LICENSE) - 자유롭게 수정 및 배포가 가능합니다.
