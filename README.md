@@ -15,7 +15,7 @@
 
 ```bash
 # Repository Clone
-git clone [https://github.com/](https://github.com/){your-username}/childcare-vaccine-notifier.git
+git clone [https://github.com/](https://github.com/) say50958548-max /childcare-vaccine-notifier.git
 cd childcare-vaccine-notifier
 
 # Run Script
